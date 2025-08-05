@@ -3,5 +3,6 @@
 
 int main()
 {
+//standard character output
   std::cout <<"Hello World!";
 }
