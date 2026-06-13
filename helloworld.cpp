@@ -3,6 +3,6 @@
 
 int main()
 {
-//standard character output
+// standard character output
   std::cout <<"University of London! C++";
 }
