@@ -4,5 +4,5 @@
 int main()
 {
 // standard character output
-  std::cout <<"University of London! C++";
+  std::cout <<"Hello World in C++";
 }
