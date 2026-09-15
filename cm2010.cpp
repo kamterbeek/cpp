@@ -5,4 +5,3 @@ int main()
     std::cout << "University of London" << std::endl;
     std::cout << "Kassandra ter Beek" << std::endl;
 }
-
