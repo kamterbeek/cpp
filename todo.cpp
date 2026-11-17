@@ -2,6 +2,10 @@
 #include <vector>
 #include <string>
 
+#include <iostream>
+#include <vector>
+#include <string>
+
 using namespace std;
 
 struct Task {
